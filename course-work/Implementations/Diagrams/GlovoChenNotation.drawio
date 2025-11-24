@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram name="Page-1" id="MoFgTkFhk0gqg8Xyi4Bp">
-    <mxGraphModel dx="1703" dy="659" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1829" dy="534" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -400,7 +400,7 @@
         <mxCell id="MvFy-3SAhjMkW7hMMkVi-5" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="Order" vertex="1">
           <mxGeometry height="47.5" width="120" x="320" y="381.25" as="geometry" />
         </mxCell>
-        <mxCell id="MvFy-3SAhjMkW7hMMkVi-7" parent="1" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" value="Associative&#xa;Entity" vertex="1">
+        <mxCell id="MvFy-3SAhjMkW7hMMkVi-7" parent="1" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" value="Order_Item" vertex="1">
           <mxGeometry height="50" width="125" x="317.5" y="580" as="geometry" />
         </mxCell>
         <mxCell id="MvFy-3SAhjMkW7hMMkVi-10" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" value="Order" vertex="1">
